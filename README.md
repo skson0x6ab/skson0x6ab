@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @skson0x6ab
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align="center">
+	
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20&fontSize=90)
 
 
 <div align="center">
@@ -24,6 +20,8 @@
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white" />
 </div>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skson0x6ab&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 <!---
 skson0x6ab/skson0x6ab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
