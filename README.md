@@ -1,7 +1,4 @@
 <div align="center">
-	
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20&fontSize=90)
-
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
@@ -20,7 +17,7 @@
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white" />
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skson0x6ab&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skson0x6ab&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)]
 
 <div>
 	<a href="https://skson-dashboard.vercel.app">
