@@ -22,7 +22,11 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skson0x6ab&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-<div>https://skson-dashboard.vercel.app<div>
+<div>
+	<a href="https://skson-dashboard.vercel.app">
+		<img src="https://img.shields.io/badge/Dashboard-20B2AA?style=for-the-badge"/>
+	</a>
+</div>
 </div>
 
 
