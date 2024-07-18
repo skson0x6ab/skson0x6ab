@@ -279,13 +279,27 @@
   </tbody>
 </table>
 
-</div>
 
-</div>
 <!--div align="center"><a><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=skson0x6ab@gmail.com&size=wide" width="300"></a></div-->
-<div align="center">
-	<a href="https://skson-dashboard.vercel.app"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sivercel&subtitle=DashBoard&size=square" width="100"></a>
-	<a href="https://www.acmicpc.net/user/skson0x6ab"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sithealgorithms&subtitle=Baekjoon&size=square" width="100"></a>
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+<thead>
+    <tr>
+      <th colspan="8" align="center" style="color: white;">URL</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+	<td align="center" style="border: none;">
+		<a href="https://skson-dashboard.vercel.app" style="color: white;">
+          		<img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sivercel&subtitle=DashBoard&size=square"/>
+	</a></td>
+	<td align="center" style="border: none;">
+		<a href="https://www.acmicpc.net/user/skson0x6ab" style="color: white;">
+          		<img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sithealgorithms&subtitle=Baekjoon&size=square"/>
+	</a></td>
+    </tr>
+</table>
+</div>
 </div>
 
 - 👋 Hi, I’m @skson0x6ab
