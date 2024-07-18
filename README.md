@@ -1,6 +1,6 @@
 <div align="center">
 	
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skson0x6ab&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)]
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skson0x6ab&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages"></a>
 	
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
  <thead>
@@ -264,13 +264,13 @@
 	</tr>
 	<tr>
 	<td align="center" style="border: none;">
-          <a style="color: white;">
+          <a target=_blank style="color: white;">
             <img src="https://skillicons.dev/icons?i=github" width="30" height="30" alt="Github"/>
           </a>
           <br>Github
         </td>
 	<td align="center" style="border: none;">
-          <a style="color: white;">
+          <a target=_blank style="color: white;">
             <img src="https://skillicons.dev/icons?i=vercel" width="30" height="30" alt="Vercel"/>
           </a>
           <br>Vercel
