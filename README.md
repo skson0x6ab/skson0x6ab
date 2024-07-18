@@ -284,17 +284,17 @@
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
 <thead>
     <tr>
-      <th colspan="8" align="center" style="color: white;">URL</th>
+      <th colspan="8" align="center" style="color: white;">URL Link</th>
     </tr>
   </thead>
   <tbody>
     <tr>
 	<td align="center" style="border: none;">
-		<a href="https://skson-dashboard.vercel.app" style="color: white;">
+		<a href="https://skson-dashboard.vercel.app" target=_blank style="color: white;">
           		<img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sivercel&subtitle=DashBoard&size=square"/>
 	</a></td>
 	<td align="center" style="border: none;">
-		<a href="https://www.acmicpc.net/user/skson0x6ab" style="color: white;">
+		<a href="https://www.acmicpc.net/user/skson0x6ab" target=_blank style="color: white;">
           		<img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sithealgorithms&subtitle=Baekjoon&size=square"/>
 	</a></td>
     </tr>
