@@ -285,7 +285,7 @@
 <!--div align="center"><a><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=skson0x6ab@gmail.com&size=wide" width="300"></a></div-->
 <div align="center">
 	<a href="https://skson-dashboard.vercel.app"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sivercel&subtitle=DashBoard&size=square" width="100"></a>
-	<a href="https://www.acmicpc.net/user/skson0x6ab"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sithealgorithms&subtitle=Baekjoon&size=square" width="100"></a>
+	<a href="acmicpc.net/user/skson0x6ab"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sithealgorithms&subtitle=Baekjoon&size=square" width="100"></a>
 </div>
 
 - 👋 Hi, I’m @skson0x6ab
