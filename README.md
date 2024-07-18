@@ -1,4 +1,7 @@
 <div align="center">
+	
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skson0x6ab&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)]
+	
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
  <thead>
     <tr>
@@ -12,6 +15,11 @@
             Level 3
           </a>
         </td>
+	 <td align="center" style="border: none;"></td>
+        <td align="center" style="border: none;"></td>
+	    <td align="center" style="border: none;"></td>
+	    <td align="center" style="border: none;"></td>
+	    <td align="center" style="border: none;"></td>
       </td>
     </tr>
     <tr>
@@ -38,6 +46,8 @@
           </a>
           <br>Vue.js
         </td>
+	    <td align="center" style="border: none;"></td>
+	    <td align="center" style="border: none;"></td>
     </tr>
     <tr>
 	<td align="center" style="border: none;">
@@ -129,7 +139,8 @@
             <img src="https://skillicons.dev/icons?i=cpp" width="30" height="30" alt="cpp"/>
           </a>
           <br>C++
-        </td>	
+        </td>
+	    <td align="center" style="border: none;"></td>
     </tr>
     <tr>
 	<td align="center" style="border: none;">
@@ -149,6 +160,7 @@
           </a>
           <br>Kotlin
         </td>
+	    <td align="center" style="border: none;"></td>
     </tr>
   </tbody>
 </table>
@@ -175,7 +187,7 @@
       </td>
       </td>
 	<td align="center" style="border: none;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
+        <a style="color: white;">
           <img src="https://skillicons.dev/icons?i=eclipse" width="30" height="30" alt="ecplise"/>
         </a>
         <br>Eclipse
@@ -207,6 +219,12 @@
 	</td>
 </tr>
 <tr>
+	<td align="center" style="border: none;">
+          <a href="https://nextjs.org/" style="color: white;">
+            <img src="https://skillicons.dev/icons?i=kubernetes" width="30" height="30" alt="kubernetes"/>
+          </a>
+          <br>Kubernetes
+        </td>
  <td align="center" style="border: none;">
         <a style="color: white;">
           <img src="https://skillicons.dev/icons?i=aws" width="30" height="30" alt="Android Studio"/>
@@ -231,12 +249,6 @@
           </a>
           <br>Kafka
         </td>
-	 <td align="center" style="border: none;">
-          <a href="https://nextjs.org/" style="color: white;">
-            <img src="https://skillicons.dev/icons?i=kubernetes" width="30" height="30" alt="kubernetes"/>
-          </a>
-          <br>Kubernetes
-        </td>
 	<td align="center" style="border: none;">
           <a href="https://nextjs.org/" style="color: white;">
             <img src="https://skillicons.dev/icons?i=maven" width="30" height="30" alt="maven"/>
@@ -251,8 +263,8 @@
         </td>
 	</tr>
 	<tr>
-			        <td align="center" style="border: none;">
-          <a href="https://nextjs.org/" style="color: white;">
+	<td align="center" style="border: none;">
+          <a style="color: white;">
             <img src="https://skillicons.dev/icons?i=github" width="30" height="30" alt="Github"/>
           </a>
           <br>Github
@@ -263,23 +275,21 @@
           </a>
           <br>Vercel
         </td>
+	<td/><td/><td/><td/><td/>
 	</tr>
   </tbody>
 </table>
-<div>
-	<img src="https://skillicons.dev/icons?i=gmail" width="30" height="30" alt="Gmail"/>
-</div>
-	<a href="https://skson-dashboard.vercel.app">
-		<img src="https://img.shields.io/badge/Dashboard-66B2FF?style=flat"/>
-	</a>
-	<a href="https://www.acmicpc.net/user/skson0x6ab">
-		<img src="https://img.shields.io/badge/BaekJoon-007BFF?style=flat"/>
-	</a>
-</div>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skson0x6ab&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)]
 
 </div>
+
+</div>
+<!--div align="center"><a><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=skson0x6ab@gmail.com&size=wide" width="300"></a></div-->
+<div align="center">
+	<a href="https://skson-dashboard.vercel.app"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sivercel&subtitle=DashBoard&size=square" width="100"></a>
+	<a href="https://www.acmicpc.net/user/skson0x6ab"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sithealgorithms&subtitle=Baekjoon&size=square" width="100"></a>
+</div>
+
+<!--div><a href="https://www.acmicpc.net/user/skson0x6ab"><img src="https://img.shields.io/badge/My_BaekJoon-007BFF?style=flat"/></a></div>
 <!---
 skson0x6ab/skson0x6ab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
