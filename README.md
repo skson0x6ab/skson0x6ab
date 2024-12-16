@@ -292,8 +292,10 @@
 	<td align="center" style="border: none;">
 		<!-- <a href="https://skson-dashboard.vercel.app" target="_blank" style="color: white;"> -->
 		<a href="https://skson0x6ab-dashboard-vue3.vercel.app/" target="_blank" style="color: white;">
-          		<img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sivercel&subtitle=DashBoard&size=square"/>
-	</a></td>
+          		<img src="https://skillicons.dev/icons?i=vercel" width="30" height="30" alt="Vercel"/>
+		</a>
+ <br>Vercel
+ </td>
 	<td align="center" style="border: none;">
 		<a href="https://www.acmicpc.net/user/skson0x6ab" target="_blank" style="color: white;">
           		<img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sithealgorithms&subtitle=Baekjoon&size=square"/>
