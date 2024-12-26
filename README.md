@@ -18,7 +18,6 @@
         <td align="center" style="border: none;"></td>
 	    <td align="center" style="border: none;"></td>
 	    <td align="center" style="border: none;"></td>
-	    <td align="center" style="border: none;"></td>
       </td>
     </tr>
     <tr>
@@ -46,7 +45,6 @@
           <br>Vue.js
         </td>
 	    <td align="center" style="border: none;"></td>
-	    <td align="center" style="border: none;"></td>
     </tr>
     <tr>
 	<td align="center" style="border: none;">
@@ -72,12 +70,6 @@
         </a>
         <br>jQuery
       </td>
-        <td align="center" style="border: none;">
-          <a href="https://nextjs.org/" style="color: white;">
-            <img src="https://skillicons.dev/icons?i=nextjs" width="30" height="30" alt="Next.js"/>
-          </a>
-          <br>Next.js
-        </td>
         <td align="center" style="border: none;">
           <a href="https://nextjs.org/" style="color: white;">
             <img src="https://skillicons.dev/icons?i=nodejs" width="30" height="30" alt="Node.js"/>
@@ -284,7 +276,7 @@
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
 <thead>
     <tr>
-      <th colspan="8" align="center" style="color: white;">URL Link</th>
+      <th colspan="8" align="center" style="color: white;">Dashboard</th>
     </tr>
   </thead>
   <tbody>
@@ -294,12 +286,7 @@
 		<a href="https://skson0x6ab-dashboard-vue3.vercel.app/" target="_blank" style="color: white;">
           		<img src="https://skillicons.dev/icons?i=vercel" width="30" height="30" alt="Vercel"/>
 		</a>
- <br>Vercel
- </td>
-	<td align="center" style="border: none;">
-		<a href="https://www.acmicpc.net/user/skson0x6ab" target="_blank" style="color: white;">
-          		<img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sithealgorithms&subtitle=Baekjoon&size=square"/>
-	</a></td>
+ <br>My dashboard
     </tr>
 </table>
 </div>
