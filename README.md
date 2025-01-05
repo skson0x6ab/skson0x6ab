@@ -1,6 +1,6 @@
 <div align="center">
 <a><img src="https://github-readme-stats.vercel.app/api?username=skson0x6ab&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue"></a>
-	
+
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
  <thead>
     <tr>
@@ -39,7 +39,7 @@
           </a>
           <br>Vscode
 	</td>
-		        <td align="center" style="border: none;">
+	<td align="center" style="border: none;">
           <a href="https://nextjs.org/" style="color: white;">
             <img src="https://skillicons.dev/icons?i=idea" width="30" height="30" alt="Idea"/>
           </a>
@@ -139,6 +139,7 @@
 2. [작업 예정] Github Action 소스 코드를 Google Script로 이동 ([To be worked] Move Github Action source code to Google Script)
 3. [작업 예정] 미사용 메뉴 삭제 ([To be worked] Delete unused menu)
 
+ 
 <!--div><a href="https://www.acmicpc.net/user/skson0x6ab"><img src="https://img.shields.io/badge/My_BaekJoon-007BFF?style=flat"/></a></div>
 <!---
 skson0x6ab/skson0x6ab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
