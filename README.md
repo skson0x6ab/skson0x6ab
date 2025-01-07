@@ -1,3 +1,49 @@
+--- Planned --- 
+1. feat(dashboard): View "Hoyolab-auto" results via dashboard or iphone
+2. refactor("Google Script"): Move Github Action source code to Google Script
+3. refactor(header): Remove unused header menu itme
+
+
+--- 25.01.07 --- 
+1. refactor(sidebar): Remove unused sidebar menu item
+2. feat(sidebar): Add badge next to "DashBoard" menu item
+3. feat(dashboard): Change linechart to barchart
+
+--- 25.01.06 ---
+1. feat(sidebar): Add menu "Zenless Zone Zero"
+2. feat(dashboard): Add chart "Zenless Zone Zero"
+
+--- 25.01.02 ---
+1. fix(dashboard): 데이터 미조회 버그 수정
+2. feat(NexonAPI): 남은 심볼 갯수 계산 기능 추가
+
+--- 24.12.30 ---
+1. fix(dashboard): Fix dashboard chart bug
+
+--- 24.12.26 ---
+1. refactor() Edit "Nexon API" 
+2. feat(dashboard): 메인화면 모니터링 추가?
+   
+--- 24.12.24 ---
+1. feat(menu): Add menu for "Nexon API"
+
+--- 24.12.19 ---
+1. feat(lib): Add PWA library for mobile optimization
+
+--- 24.12.17 ---
+1. feat(menu): Add menu for "Redeem Code"
+
+--- 24.12.16 ---
+1. feat(dashboard): Add monitoring feature for RedeemCode.
+2. feat(menu): Add URL generator for dynamic RedeemCode URL creation
+3. feat(api): Add functionality to check RedeemCode usage status via GitHub API.
+4. chore(images): Replace logo files.
+   
+--- 24.12.11 ---
+1. feat(deploy): First deployment for website launch.
+2. fix(constants): Update constant names to uppercase.
+3. feat(lib): Add Piniastore for data management
+
 <div align="center">
 <a><img src="https://github-readme-stats.vercel.app/api?username=skson0x6ab&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue"></a>
 
@@ -134,10 +180,6 @@
 </div>
 </div>
 
--- 예정 -- 
-1. [추가 예정] "Hoyolab-auto" 결과를 my dashboard 또는 iphone으로 받기 ([To be added] View "Hoyolab-auto" results via my dashboard or iphone)
-2. [작업 예정] Github Action 소스 코드를 Google Script로 이동 ([To be worked] Move Github Action source code to Google Script)
-3. [작업 예정] 미사용 메뉴 삭제 ([To be worked] Delete unused menu)
 
  
 <!--div><a href="https://www.acmicpc.net/user/skson0x6ab"><img src="https://img.shields.io/badge/My_BaekJoon-007BFF?style=flat"/></a></div>
