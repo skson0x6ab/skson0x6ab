@@ -1,56 +1,14 @@
---- Planned --- 
-1. feat(dashboard): View "Hoyolab-auto" results via dashboard or iphone
-2. refactor("Google Script"): Move Github Action source code to Google Script
-3. refactor(header): Remove unused header menu itme
 
 
---- 25.01.07 --- 
-1. refactor(sidebar): Remove unused sidebar menu item
-2. feat(sidebar): Add badge next to "DashBoard" menu item
-3. feat(dashboard): Change linechart to barchart
 
---- 25.01.06 ---
-1. feat(sidebar): Add menu "Zenless Zone Zero"
-2. feat(dashboard): Add chart "Zenless Zone Zero"
-
---- 25.01.02 ---
-1. fix(dashboard): 데이터 미조회 버그 수정
-2. feat(NexonAPI): 남은 심볼 갯수 계산 기능 추가
-
---- 24.12.30 ---
-1. fix(dashboard): Fix dashboard chart bug
-
---- 24.12.26 ---
-1. refactor() Edit "Nexon API" 
-2. feat(dashboard): 메인화면 모니터링 추가?
-   
---- 24.12.24 ---
-1. feat(menu): Add menu for "Nexon API"
-
---- 24.12.19 ---
-1. feat(lib): Add PWA library for mobile optimization
-
---- 24.12.17 ---
-1. feat(menu): Add menu for "Redeem Code"
-
---- 24.12.16 ---
-1. feat(dashboard): Add monitoring feature for RedeemCode.
-2. feat(menu): Add URL generator for dynamic RedeemCode URL creation
-3. feat(api): Add functionality to check RedeemCode usage status via GitHub API.
-4. chore(images): Replace logo files.
-   
---- 24.12.11 ---
-1. feat(deploy): First deployment for website launch.
-2. fix(constants): Update constant names to uppercase.
-3. feat(lib): Add Piniastore for data management
-
+<br>
 <div align="center">
 <a><img src="https://github-readme-stats.vercel.app/api?username=skson0x6ab&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue"></a>
-
+<br><br><br>
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
  <thead>
     <tr>
-      <th colspan="8" align="center" style="color: white;">사용하는 언어/툴/프레임워크 등등</th>
+      <th colspan="8" align="center" style="color: white;">Personal Technologies</th>
     </tr>
   </thead>
   <tbody>
@@ -106,11 +64,10 @@
     </tr>
   </tbody>
 </table>
-
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
  <thead>
     <tr>
-      <th colspan="8" align="center" style="color: white;">업무 환경</th>
+      <th colspan="8" align="center" style="color: white;">Professional Technologies</th>
     </tr>
   </thead>
   <tbody>
@@ -160,28 +117,36 @@
     </tr>
   </tbody>
 </table>
-
 <!--div align="center"><a><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=skson0x6ab@gmail.com&size=wide" width="300"></a></div-->
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
 <thead>
     <tr>
-      <th colspan="8" align="center" style="color: white;">Dashboard</th>
+      <th align="center" style="color: white;">Dashboard</th>
+      <th align="center" style="color: white;">Notion</th>
     </tr>
   </thead>
   <tbody>
     <tr>
 	<td align="center" style="border: none;">
 		<a href="https://skson0x6ab-dashboard-vue3.vercel.app/" target="_blank" style="color: white;">
-          		<img src="https://skillicons.dev/icons?i=vercel" width="30" height="30" alt="Vercel"/>
+          		<img src="https://icons.iconarchive.com/icons/paomedia/small-n-flat/256/dashboard-alt-icon.png" width="30" height="30" alt="Vercel"/>
 		</a>
- <br>
+	<td align="center" style="border: none;">
+		<a href="https://skson0x6ab-dashboard-vue3.vercel.app/" target="_blank" style="color: white;">
+          		<img src="https://www.svgrepo.com/show/452076/notion.svg" width="30" height="30" alt="Vercel"/>
+		</a>
     </tr>
+		</tbody>
 </table>
 </div>
 </div>
 
+--- Recent Release Note ---
 
- 
+- 2025.01.13
+    1. feat(auth): Improve login functionality
+    2. feat(Google Script): Change batch process schedule
+       
 <!--div><a href="https://www.acmicpc.net/user/skson0x6ab"><img src="https://img.shields.io/badge/My_BaekJoon-007BFF?style=flat"/></a></div>
 <!---
 skson0x6ab/skson0x6ab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
