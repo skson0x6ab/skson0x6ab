@@ -132,8 +132,8 @@
           		<img src="https://icons.iconarchive.com/icons/paomedia/small-n-flat/256/dashboard-alt-icon.png" width="30" height="30" alt="Vercel"/>
 		</a>
 	<td align="center" style="border: none;">
-		<a href="https://skson0x6ab-dashboard-vue3.vercel.app/" target="_blank" style="color: white;">
-          		<img src="https://www.svgrepo.com/show/452076/notion.svg" width="30" height="30" alt="Vercel"/>
+		<a href="https://rigorous-clef-40f.notion.site/SKSon-Project-17a8e36dd56380c082bbeede5ae6ab3a?pvs=4" target="_blank" style="color: white;">
+          		<img src="https://www.svgrepo.com/show/452076/notion.svg" width="30" height="30" alt="Notion"/>
 		</a>
     </tr>
 		</tbody>
