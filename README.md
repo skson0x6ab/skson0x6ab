@@ -1,23 +1,17 @@
 <div>
-<h1> "Hobbies efficiently, work inefficiently." </h1>
+<h1> Hobbies efficiently, work inefficiently </h1>
 <img src="https://skson0x6ab-dashboard-vue3.vercel.app/ogu02.gif" width="100" /> 
 
 
-## About me
+## 📚 About me
 
-- ✨ Creating bugs since 2019
-- 📚 I'm currently learning english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />  and docker 🐳
-- 🎯 Goals: live in a cold place ❄ and speak english 🚀
-- 🎲 And ... i play 🎸 guitar and ♟ chess online
+- 👋 Hi, I’m @skson0x6ab
+- 👀 I'm interested in automating all my activities through development to live life efficiently
 
-## Technologies
+## 💻 Technologies
 <a href="https://github.com/SSARCandy?tab=repositories">
   <img align="center" height="210px" src="https://github-readme-stats.ssarcandy.vercel.app/api/top-langs?username=ssarcandy&layout=compact&hide=jupyter+notebook,TeX,HTML,css&hide_border=true" />
 </a>
-
-<br><br>
-<a><img src="https://github-readme-stats.vercel.app/api?username=skson0x6ab&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue"></a>
-
 
 
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
@@ -64,12 +58,6 @@
           </a>
           <br>Idea
         </td>
-	<td align="center" style="border: none;">
-        <a style="color: white;">
-          <img src="https://skillicons.dev/icons?i=docker" width="30" height="30" alt="Docker"/>
-        </a>
-        <br>Docker
-      </td>
 	<td align="center" style="border: none;">
           <a target=_blank style="color: white;">
             <img src="https://skillicons.dev/icons?i=vercel" width="30" height="30" alt="Vercel"/>
@@ -134,36 +122,36 @@
 </table>
 <!--div align="center"><a><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=skson0x6ab@gmail.com&size=wide" width="300"></a></div-->
 
-## Project
+## 🔧 My GitHub Stats
+<a><img src="https://github-readme-stats.vercel.app/api?username=skson0x6ab&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue"></a>
 
+## 🌐 Project
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-<thead>
-    <tr>
-      <th align="center" style="color: white;">Dashboard</th>
-      <th align="center" style="color: white;">Notion</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
-	<td align="center" style="border: none;">
-		<a href="https://skson0x6ab-dashboard-vue3.vercel.app/" target="_blank" style="color: white;">
-          		<img src="https://icons.iconarchive.com/icons/paomedia/small-n-flat/256/dashboard-alt-icon.png" width="30" height="30" alt="Vercel"/>
-		</a>
-	<td align="center" style="border: none;">
-		<a href="https://rigorous-clef-40f.notion.site/SKSon-Project-17a8e36dd56380c082bbeede5ae6ab3a?pvs=4" target="_blank" style="color: white;">
-          		<img src="https://www.svgrepo.com/show/452076/notion.svg" width="30" height="30" alt="Notion"/>
-		</a>
+      <td align="center" style="color: white;">Dashboard</td>
+      <td align="center" style="color: white;">
+        <a href="https://skson0x6ab-dashboard-vue3.vercel.app/" target="_blank" style="color: white;">
+          <img src="https://www.svgrepo.com/show/324142/dashboard-graph-analytics-report.svg" width="30" height="30" alt="Vercel"/>
+        </a>
+      </td>
     </tr>
-		</tbody>
+    <tr>
+      <td align="center" style="color: white;">Notion</td>
+      <td align="center" style="color: white;">
+<a href="https://rigorous-clef-40f.notion.site/SKSon-Project-17a8e36dd56380c082bbeede5ae6ab3a?pvs=4" target="_blank" style="color: white;"><img src="https://www.svgrepo.com/show/452076/notion.svg" width="30" height="30" alt="Notion"/></a>
+      </td>
+    </tr>
+  </tbody>
 </table>
 </div>
 </div>
 
-## Recent Release Note
+## 📓 Recent Release Note
 
-- 2025.01.13
-    1. feat(auth): Improve login functionality
-    2. feat(Google Script): Change batch process schedule
+- 2025.01.14
+    1. feat(auth): Fix issue auth functionality
+    2. feat(pinia): Change the repository target for validating RedeemCode
        
 <!--div><a href="https://www.acmicpc.net/user/skson0x6ab"><img src="https://img.shields.io/badge/My_BaekJoon-007BFF?style=flat"/></a></div>
 <!---
