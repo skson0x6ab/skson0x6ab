@@ -10,7 +10,7 @@
 
 ## 💻 Technologies
 <a href="https://github.com/SSARCandy?tab=repositories">
-  <img align="center" height="210px" src="https://github-readme-stats.ssarcandy.vercel.app/api/top-langs?username=ssarcandy&layout=compact&hide=jupyter+notebook,TeX,HTML,css&hide_border=true" />
+  <img align="center" height="210px" src="https://github-readme-stats.ssarcandy.vercel.app/api/top-langs?username=skson0x6ab&layout=compact&hide=jupyter+notebook,TeX,HTML,css&hide_border=true" />
 </a>
 
 
