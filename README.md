@@ -125,7 +125,7 @@
 ## 🔧 My GitHub Stats
 <a><img src="https://github-readme-stats.vercel.app/api?username=skson0x6ab&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue"></a>
 
-## 🌐 Project
+## 🌐 Connections
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <tbody>
     <tr>
