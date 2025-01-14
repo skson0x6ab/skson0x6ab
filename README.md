@@ -1,5 +1,5 @@
 <div>
-<h1> Hobbies efficiently, work inefficiently </h1>
+<h1> "Hobbies efficiently, work inefficiently" </h1>
 <img src="https://skson0x6ab-dashboard-vue3.vercel.app/ogu02.gif" width="100" /> 
 
 
