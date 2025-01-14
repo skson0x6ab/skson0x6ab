@@ -1,10 +1,25 @@
+<div>
+<h1> "Hobbies efficiently, work inefficiently." </h1>
+<img src="https://skson0x6ab-dashboard-vue3.vercel.app/ogu02.gif" width="100" /> 
 
 
+## About me
 
-<br>
-<div align="center">
+- ✨ Creating bugs since 2019
+- 📚 I'm currently learning english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />  and docker 🐳
+- 🎯 Goals: live in a cold place ❄ and speak english 🚀
+- 🎲 And ... i play 🎸 guitar and ♟ chess online
+
+## Technologies
+<a href="https://github.com/SSARCandy?tab=repositories">
+  <img align="center" height="210px" src="https://github-readme-stats.ssarcandy.vercel.app/api/top-langs?username=ssarcandy&layout=compact&hide=jupyter+notebook,TeX,HTML,css&hide_border=true" />
+</a>
+
+<br><br>
 <a><img src="https://github-readme-stats.vercel.app/api?username=skson0x6ab&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue"></a>
-<br><br><br>
+
+
+
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
  <thead>
     <tr>
@@ -33,9 +48,9 @@
        </td> 
     <td align="center" style="border: none;">
           <a href="https://nextjs.org/" style="color: white;">
-            <img src="https://skillicons.dev/icons?i=git" width="30" height="30" alt="Git"/>
+            <img src="https://skillicons.dev/icons?i=github" width="30" height="30" alt="Github"/>
           </a>
-          <br>Git
+          <br>Github
         </td>
         <td align="center" style="border: none;">
           <a href="https://nextjs.org/" style="color: white;">
@@ -118,6 +133,9 @@
   </tbody>
 </table>
 <!--div align="center"><a><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=skson0x6ab@gmail.com&size=wide" width="300"></a></div-->
+
+## Project
+
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
 <thead>
     <tr>
@@ -141,7 +159,7 @@
 </div>
 </div>
 
---- Recent Release Note ---
+## Recent Release Note
 
 - 2025.01.13
     1. feat(auth): Improve login functionality
