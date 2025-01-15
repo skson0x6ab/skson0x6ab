@@ -1,5 +1,5 @@
 <div>
-<h1> "Hobbies efficiently, work inefficiently" </h1>
+<h1> "Hobbies efficiently, Work inefficiently" </h1>
 <img src="https://skson0x6ab-dashboard-vue3.vercel.app/ogu02.gif" width="100" /> 
 
 
@@ -142,6 +142,12 @@
 <a href="https://rigorous-clef-40f.notion.site/SKSon-Project-17a8e36dd56380c082bbeede5ae6ab3a?pvs=4" target="_blank" style="color: white;"><img src="https://www.svgrepo.com/show/452076/notion.svg" width="30" height="30" alt="Notion"/></a>
       </td>
     </tr>
+    <tr>
+      <td align="center" style="color: white;">Discord</td>
+      <td align="center" style="color: white;">
+<a href="https://discord.gg/pCKvPDCk" target="_blank" style="color: white;"><img src="https://www.svgrepo.com/show/331368/discord-v2.svg" width="30" height="30" alt="Notion"/></a>
+      </td>
+    </tr>
   </tbody>
 </table>
 </div>
@@ -149,9 +155,9 @@
 
 ## 📓 Recent Release Note
 
-- 2025.01.14
-    1. feat(auth): Fix issue auth functionality
-    2. feat(pinia): Change the repository target for validating RedeemCode
+- 2025.01.15
+    1. fix(Vue API): Fix issue for used RedeemCode check functionality
+    2. feat(Google Script): Send a request to the Discord Webhook with the new redeem code when a new redeem code is found
        
 <!--div><a href="https://www.acmicpc.net/user/skson0x6ab"><img src="https://img.shields.io/badge/My_BaekJoon-007BFF?style=flat"/></a></div>
 <!---
