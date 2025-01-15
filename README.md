@@ -129,7 +129,7 @@
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <tbody>
     <tr>
-      <td align="center" style="color: white;">Dashboard</td>
+      <td align="center" style="color: white;">Dashboard (Game news, Usedredeemcode management, NexonAPI)</td>
       <td align="center" style="color: white;">
         <a href="https://skson0x6ab-dashboard-vue3.vercel.app/" target="_blank" style="color: white;">
           <img src="https://www.svgrepo.com/show/324142/dashboard-graph-analytics-report.svg" width="30" height="30" alt="Vercel"/>
@@ -137,13 +137,13 @@
       </td>
     </tr>
     <tr>
-      <td align="center" style="color: white;">Notion</td>
+      <td align="center" style="color: white;">Project management (notion)</td>
       <td align="center" style="color: white;">
 <a href="https://rigorous-clef-40f.notion.site/SKSon-Project-17a8e36dd56380c082bbeede5ae6ab3a?pvs=4" target="_blank" style="color: white;"><img src="https://www.svgrepo.com/show/452076/notion.svg" width="30" height="30" alt="Notion"/></a>
       </td>
     </tr>
     <tr>
-      <td align="center" style="color: white;">Discord</td>
+      <td align="center" style="color: white;">New redeemcode alarm discord (Beta)</td>
       <td align="center" style="color: white;">
 <a href="https://discord.gg/pCKvPDCk" target="_blank" style="color: white;"><img src="https://www.svgrepo.com/show/331368/discord-v2.svg" width="30" height="30" alt="Notion"/></a>
       </td>
