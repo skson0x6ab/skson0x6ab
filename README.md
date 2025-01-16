@@ -155,9 +155,12 @@
 
 ## 📓 Recent Release Note
 
-- 2025.01.15
-    1. fix(Vue API): Fix issue for used RedeemCode check functionality
-    2. feat(Google Script): Send a request to the Discord Webhook with the new redeem code when a new redeem code is found
+- 2025.01.16
+    1. feat(Vue): Change the multiple Hoyoverse game charts to a single chart
+    2. fix(Google Script): Fix issue of duplicate Discord webhook requests for the same redeem code 
+    3. feat(Google Script): When a new redeem code is found, it is added to the data store
+    4. feat(Google Script): When a redeem code is inactive, remove the corresponding entry from data store
+    5. feat(Vue): Change the API content update chart to a new redeem code table
        
 <!--div><a href="https://www.acmicpc.net/user/skson0x6ab"><img src="https://img.shields.io/badge/My_BaekJoon-007BFF?style=flat"/></a></div>
 <!---
