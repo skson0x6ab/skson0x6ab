@@ -7,6 +7,7 @@
 
 - 👋 Hi, I’m @skson0x6ab
 - 👀 I'm interested in automating all my activities through development to live life efficiently
+- 🍳 (Updated 2025.03.04) I haven't been able to focus on managing my project due to a request at work to set up Airflow in an EKS environment and my personal studies
 
 ## 💻 Technologies
 <a href="https://github.com/skson0x6ab?tab=repositories">
